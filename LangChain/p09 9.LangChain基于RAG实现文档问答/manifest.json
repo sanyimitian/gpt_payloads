@@ -1,0 +1,41 @@
+{
+  "task_id": "cb20cac3-b2c2-4f18-a20f-649ee5928b97",
+  "note_title": "2025吃透LangChain大模型全套教程（LLM+RAG+OpenAI+Agent）通俗易懂，学完即就业!拿走不谢，学不会我退出IT圈！！！ p09 9.LangChain基于RAG实现文档问答",
+  "export_dir": "/home/pan/Desktop/github/BiliNote(ok)（批量提取）/backend/gpt_payloads/2025吃透LangChain大模型全套教程（LLM+RAG+OpenAI+Agent）通俗易懂，学完即就业!拿走不谢，学不会我退出IT圈！！！ p09 9.LangChain基于RAG实现文档问答",
+  "model_name": "qwen-vl-plus",
+  "provider": {
+    "id": "qwen",
+    "name": "Qwen",
+    "type": "built-in",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "logo": "Qwen"
+  },
+  "options": {
+    "link": false,
+    "screenshot": false,
+    "formats": [
+      "toc"
+    ],
+    "style": "tutorial",
+    "extras": ""
+  },
+  "chunked": false,
+  "chunk_threshold": 60000,
+  "chunk_size_chars": null,
+  "total_segments": 986,
+  "total_chars": 9484,
+  "payloads": [
+    {
+      "filename": "request_full.json",
+      "part": "full",
+      "index": 1,
+      "segment_count": 986,
+      "char_count": 9484,
+      "time_range": [
+        "00:00",
+        "31:25"
+      ]
+    }
+  ],
+  "exported_at": "2025-11-17T03:58:43.477867Z"
+}
